@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  rajya vardhan  👋
 # 💫 About Me:
 🚀 I’m a curious and self-driven student passionate about technology, innovation, and continuous learning. Currently exploring fields like Artificial Intelligence, Machine Learning, and Cloud Computing, I’m building a strong foundation in Python programming and hands-on technical projects.<br><br>💡 I enjoy transforming ideas into real-world applications — whether that’s coding small automation tools, learning through hackathons. My focus is on learning by doing, improving a little every day, and becoming an engineer who builds solutions that matter.<br><br>📚 Alongside tech, I’m also developing a mindset for growth — through books, investing basics, and productivity systems like Notion — to balance both skill and discipline.<br><br>⚙️ Interests: AI/ML, Cloud Development, Problem Solving, Open Source Projects, Hackathons<br><br>🌱 Currently learning: Advanced Python, Machine Learning fundamentals, and building projects to showcase my skills.
 
